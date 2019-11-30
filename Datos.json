@@ -1,0 +1,111 @@
+[
+        {
+            "nombre": "Naruto: Shippuuden",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "8.16",
+            "episodio": 500,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "Studio Pierrot",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+        },
+        {
+            "nombre": "One Piece",
+            "descripción": "Gol D. Roger era conocido como el 'Rey Pirata', el ser más fuerte e infame que había navegado en Grand Line. La captura y muerte de Roger por parte del Gobierno Mundial trajo un cambio en todo el mundo. Su última palabras antes de su muerte revelaron la existencia del mayor tesoro del mundo, One Piece. Fue esta revelación la que provocó la Gran Era de los Piratas, hombres que soñaban con encontrar One Piece, que promete una cantidad ilimitada de riquezas y fama, y posiblemente el pináculo de la gloria y el título del Rey Pirata ",
+            "Calificación": "8.54",
+            "episodio": 700,
+             "categorie": "Animación | Drama | Aventura",
+            "studio": "Toei Animation",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+        },
+        {
+            "name": "Attack on Titan",
+            "descripción": "Hace siglos, la humanidad fue sacrificada hasta casi la extinción por monstruosas criaturas humanoides llamadas titanes, lo que obligó a los humanos a esconderse con miedo detrás de enormes paredes concéntricas. Lo que hace que estos gigantes sean realmente terroríficos es que su gusto por la carne humana no nace de hambre pero lo que parece estar fuera de placer. Para asegurar su supervivencia, los restos de la humanidad comenzaron a vivir dentro de barreras defensivas, resultando en cien años sin un solo encuentro de titán. Sin embargo, esa frágil calma pronto se rompe cuando un titán colosal logra romper la pared exterior supuestamente inexpugnable, reavivando la lucha por la supervivencia contra las abominaciones devoradoras de hombres ".
+            "Calificación": "8.50",
+            "episodio": 500,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "Wit Studio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+        },
+        {
+            "nombre": "Monstruo",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "8.16",
+            "episodio": 70,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "manicomio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
+        },
+        {
+            "nombre": "Death Note",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "8.16",
+            "episodio": 500,
+            "categorie": "Animación | Aventura",
+            "studio": "manicomio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+        },
+        {
+            "nombre": "Violet Evergarden",
+            "descripción": "Hay palabras que Violet escuchó en el campo de batalla, que no puede olvidar. Estas palabras le fueron dadas por alguien que ella aprecia, más que nadie. Todavía no sabe su significado. En cierto momento, en el continente de Telesis. La gran guerra que dividió el continente en Norte y Sur ha terminado después de cuatro años, y la gente está dando la bienvenida a una nueva generación ".
+            "Calificación": "8.39",
+            "episodio": 14,
+            "categorie": "Fantasía | Drama",
+            "studio": "Animación de Kyoto",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+        },
+        {
+            "nombre": "Tokyo Ghoul",
+            "descripción": "",
+            "Calificación": "8.01",
+            "episodio": 12,
+            "categorie": "Acción | Misterio",
+            "studio": "Studio Pierrot",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+        },
+        {
+            "nombre": "Trébol negro",
+            "descripción": "Asta y Yuno fueron abandonados en la misma iglesia el mismo día. Criados juntos como niños, llegaron a conocer al Rey Mago, un título otorgado al mago más fuerte del reino, y prometieron que competirían uno contra el otro para la posición del próximo Rey Mago. Sin embargo, a medida que crecieron, la gran diferencia entre ellos se hizo evidente. Mientras que Yuno es capaz de manejar magia con un poder y control asombrosos, Asta no puede usar magia en absoluto y trata desesperadamente de hacerlo. despertar sus poderes entrenando físicamente ",
+            "Calificación": "6.55",
+            "episodio": 51,
+            "categorie": "Magia | Shounen | Aventura",
+            "studio": "Studio Pierrot",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+        },
+        {
+            "nombre": "Sword Art Online",
+            "descripción": "En el año 2022, la realidad virtual ha progresado a pasos agigantados, y se lanza un juego de rol masivo en línea llamado Sword Art Online (SAO). Con la ayuda de la tecnología NerveGear, los jugadores pueden controlar sus avatares dentro el juego usando nada más que sus propios pensamientos ",
+            "Calificación": "7.66",
+            "episodio": 25,
+            "categorie": "Drama | Aventura",
+            "studio": "A-1 Pictures",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+        },
+        {
+            "nombre": "Nanatsu no Taizai",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "8.30",
+            "episodio": 24,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "A-1 Pictures",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+        },
+        {
+            "nombre": "Kiseijuu: Sei no Kakuritsu",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "8.53",
+            "episodio": 24,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "manicomio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+        },
+        {
+            "nombre": "Hunter x Hunter (2011)",
+            "descripción": "Han pasado dos años y medio desde que Naruto Uzumaki dejó Konohagakure, la Aldea Oculta de la Hoja, para un entrenamiento intenso después de los eventos que alimentaron su deseo de ser más fuerte. Ahora Akatsuki, la misteriosa organización de ninjas rebeldes de élite, está cerrando en su gran plan que puede amenazar la seguridad de todo el mundo shinobi ",
+            "Calificación": "9.11",
+            "episodio": 148,
+            "categorie": "Animación | Drama | Aventura",
+            "studio": "manicomio",
+            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+        }
+
+    ]
